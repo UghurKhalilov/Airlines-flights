@@ -38,8 +38,11 @@ The goal is to explore flight patterns, ticket prices, routes, and airline perfo
 
 ## 📁 Project Structure
 Airlines_Flights_Analysis.ipynb
+
 dataset.csv
+
 README.md
+
 requirements.txt
 
 ## ⚙️ How to Run
